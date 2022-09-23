@@ -16,8 +16,8 @@ Projeto que visa tornar informações sobre a saúde pública mais acessível ao
 <h3>Status Atual</h3>
 Em desenvolvimento
 
-<h3>Protótipo(Figma)</h3>
-https://www.figma.com/file/8kz5sDAuwuT5VWGcPr5E2g/InfoVITA?node-id=0%3A1
+<h3>Wireframes(Canva)</h3>
+https://www.canva.com/design/DAFM3EqnZFo/7d19HkEYhteWt3IWkM2r3Q/view?utm_content=DAFM3EqnZFo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 <h3>Fonte de dados</h3>
 https://cnes2.datasus.gov.br/
