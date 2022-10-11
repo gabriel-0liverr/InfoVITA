@@ -21,3 +21,6 @@ https://www.canva.com/design/DAFM3EqnZFo/7d19HkEYhteWt3IWkM2r3Q/view?utm_content
 
 <h3>Fonte de dados</h3>
 https://cnes2.datasus.gov.br/
+
+<h3>Product backlog</h3>
+https://docs.google.com/spreadsheets/d/19ayIM9UR7kCvOkhkvzkTl4vbUP4e1Jst/edit?usp=drivesdk&ouid=112740340605020176864&rtpof=true&sd=true
