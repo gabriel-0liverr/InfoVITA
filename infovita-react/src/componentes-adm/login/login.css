@@ -1,0 +1,7 @@
+div form.login{
+    display: grid;
+    justify-content: center;
+}
+div form.login input{
+    width: 250px;
+}
