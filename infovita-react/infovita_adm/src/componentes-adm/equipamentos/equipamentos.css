@@ -1,0 +1,29 @@
+div.body{
+    display: flex;
+    justify-content: space-around;
+}
+div.body button{
+    transition: 0.5s;
+}
+div.body button:hover{
+    background-color: gray;
+}
+
+div.left{
+    text-align: left;
+    max-width: 200px;
+    padding: 200px 10px;
+}
+
+section{
+    min-width: 33%;
+    border-left: 1px solid gray;
+    padding: 50px;
+}
+section li{
+    list-style-type: none;
+}
+section li ul{
+    padding: 0;
+    border: 1px solid black;
+}

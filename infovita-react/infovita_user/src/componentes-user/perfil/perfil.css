@@ -1,0 +1,15 @@
+div.perfil{
+    justify-content: center;
+    text-align: center;
+    padding-top: 190px;
+    padding-bottom: 190px;
+}
+div.perfil button.btn-logout{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 6px;
+    transition: 0.5s;
+}
+div.perfil button.btn-logout:hover{
+    background-color: gray;
+}
